@@ -1,0 +1,24 @@
+{
+    "database":
+    {
+        "host":"172.29.18.239",
+        "database":"postgres",
+        "user":"postgres",
+        "password":"POST1234",
+        "port":5432
+    },
+    
+    "warehouse":
+    {
+        "host":"172.29.18.239",
+        "database":"postgres",
+        "user":"postgres",
+        "password":"POST1234",
+        "port":2022
+    },
+
+    "spark":
+    {
+        "master":"spark://HPG7-016.kpk.go.id:7077"
+    }
+}
