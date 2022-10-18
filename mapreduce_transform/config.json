@@ -1,0 +1,17 @@
+{
+    "postgresql":{
+        "host":"localhost",
+        "db":"postgres",
+        "user":"postgres",
+        "pwd":"postgres",
+        "port":5432
+    },
+    
+    "warehouse":{
+        "host":"localhost",
+        "db":"postgres",
+        "user":"postgres",
+        "pwd":"postgres",
+        "port":2022
+    }
+}
